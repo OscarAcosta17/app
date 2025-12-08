@@ -1,0 +1,4 @@
+# Lista de librerías
+# Ejemplo:
+# requests
+# pandas
