@@ -1,15 +1,17 @@
-# Mi Aplicación Automatizada
+# app
 
-Esta es una aplicación que realiza [describe aquí la función].
+A new Flutter project.
 
-## Estructura
-El código fuente se encuentra en la carpeta `src/`.
+## Getting Started
 
-## Cómo ejecutar
+This project is a starting point for a Flutter application.
 
-### En Windows
-Simplemente haz doble clic en el archivo `lanzar_windows.bat`.
+A few resources to get you started if this is your first Flutter project:
 
-### En Linux / Mac
-Abre una terminal y ejecuta:
-./lanzar_linux.sh
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
